@@ -5,8 +5,9 @@
 Simple GUI Application to Detect Parkinson's Disease using Adaptive Boosting algorithm.
 
 Tools Used:
-Python
-TKinter - GUI in python
+
+Python,
+TKinter(GUI in python)
 
 The Application has 2 files
 
