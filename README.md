@@ -1,4 +1,7 @@
-# PD
+# Parkinson's Disease:
+     A disorder of the central nervous system that affects movement, often including tremors.
+     Shows symptoms in Voice.
+
 Simple GUI Application to Detect Parkinson's Disease using Adaptive Boosting algorithm.
 
 Tools Used:
